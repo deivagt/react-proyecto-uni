@@ -1,0 +1,12 @@
+{
+  "idTarea": "001",
+  "titulo": "Realizar limpieza salon",
+  "descripcion": "Dirigirse al salon 3A y limpiar las sillas, mesas y escenario",
+  "fechaInicio": "12/12/12",
+  "fechaFin": "13/12/12",
+  "estado": "En proceso",
+  "Encargado": {
+    "nombreUsuario": "noobmaster69",
+    "carnet": 201800523
+  }
+}

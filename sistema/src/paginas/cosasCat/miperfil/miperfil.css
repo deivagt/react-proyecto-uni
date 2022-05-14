@@ -1,0 +1,25 @@
+
+.volver{
+  position: absolute;
+  width: 200px;
+  margin-bottom: 50px;
+  left: 5%;
+  top: 10%;
+  transform: translate(0%, 0%);
+  -webkit-transform: translate(0%, 10%);
+}
+.estructura
+{
+   position: relative;
+    width: 400px;
+    margin-bottom: 50px;
+    left: 80%;
+    top: 3%;
+    transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 10%);
+  
+  
+  }
+  .bt{
+    width: 200px;
+  }

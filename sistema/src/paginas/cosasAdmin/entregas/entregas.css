@@ -1,0 +1,25 @@
+.mushasCo
+{
+    position: relative;
+    width: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    left: 50%;
+  
+    transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 10%);
+  
+  }
+  .entregas{
+    position: relative;
+    width: 550px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    left: 50%;
+  
+    transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 10%);
+  }
+  .input{
+      background: 'white';
+  }

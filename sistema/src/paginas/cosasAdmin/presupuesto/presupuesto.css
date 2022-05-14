@@ -1,0 +1,17 @@
+.abc {
+ 
+  float: left;
+
+  position: relative;
+  width: 500px;
+  margin-bottom: 50px;
+  left: 50%;
+  top: 3%;
+  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, 10%);
+}
+
+
+h3 {
+  text-align: left;
+}

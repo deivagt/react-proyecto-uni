@@ -1,0 +1,19 @@
+[
+  {
+    "carne": "201800523",
+    "monto": "50",
+    "codigo": "363056",
+    "fecha": "3-1-2020",
+    "tipo": "ingreso",
+    "descripcion": "Pago de Congreso"
+  },
+
+  {
+    "carne": "201800337",
+    "monto": "85",
+    "codigo": "352069",
+    "fecha": "5-1-2020",
+    "tipo": "ingreso",
+    "descripcion": "Congreso Estandar"
+  }
+]

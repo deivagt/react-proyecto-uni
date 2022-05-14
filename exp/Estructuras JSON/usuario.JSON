@@ -1,0 +1,90 @@
+{
+  "estudiante": [
+    {
+      "nombre": "David Alberto Avila Belisle",
+      "dpi": "3358868681901",
+      "carne": "201800523",
+      "fechaNacimiento": "12/12/12",
+      "celular": "35018643",
+      "correo": "david1alberto@gmail.com",
+      "universidad": "USAC",
+      "nac": "Guatemalteco",
+      "nombreUsuario": "nb69",
+      "contra": "123",
+      "tipo": "estudiante",
+      "cafe": "2",
+      "almuerzo": "1",
+      "insumo": "1"
+    },
+    {
+      "nombre": "Josue Melgara",
+      "dpi": "888888888888",
+      "carne": "201800336",
+      "fechaNacimieno": "1211-12-12",
+      "celular": "99996666",
+      "correo": "josue@gmail.com",
+      "universidad": "APAM",
+      "nac": "Mexicano",
+      "nombreUsuario": "josue1",
+      "contra": "123",
+      "tipo": "estudiante",
+      "cafe": "2",
+      "almuerzo": "1",
+      "insumo": "1"
+    },
+    {
+      "nombre": "Alfred",
+      "dpi": "888888888888",
+      "carne": "201800337",
+      "fechaNacimieno": "1211-12-12",
+      "celular": "99996666",
+      "correo": "josue@gmail.com",
+      "universidad": "Panum",
+      "nac": "Suizo",
+      "nombreUsuario": "alf1",
+      "contra": "123",
+      "tipo": "estudiante",
+      "cafe": "2",
+      "almuerzo": "1",
+      "insumo": "1"
+    }
+  ],
+  "profesor": [
+    {
+      "nombre": "Maria",
+      "dpi": "555555555",
+      "carne": "201700322",
+      "fechaNacimieno": "1222-12-12",
+      "celular": "666666666",
+      "correo": "maria@gmail.com",
+      "universidad": "USAC",
+      "nombreUsuario": "maria1",
+      "contra": "123",
+      "tipo": "profesor"
+    }
+  ],
+  "administrador": [
+    {
+      "nombre": "David Avila",
+      "fechaNacimiento": "12-12-12",
+      "celular": "35018643",
+      "correo": "david1alberto@gmail.com",
+      "nombreUsuario": "admin",
+      "contra": "123",
+      "puesto": "Preprepre",
+      "tipo": "admin"
+    }
+  ],
+  "colaborador": [
+    {
+      "nombre": "Luis Rodriguez",
+      "carne": "201804356",
+      "fechaNacimiento": "12/12/12",
+      "celular": "88888",
+      "correo": "luispe@gmail.com",
+      "nombreUsuario": "luro",
+      "contra": "123",
+      "fechaNacimieno": "12/12/12"
+    }
+  ]
+}

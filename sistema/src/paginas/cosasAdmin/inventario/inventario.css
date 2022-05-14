@@ -1,0 +1,29 @@
+.estructura {
+  float: left;
+  position: absolute;
+  width: 400px;
+  margin-bottom: 50px;
+  left: 38%;
+  top: 5%;
+  transform: translate(-40%, 0%);
+  -webkit-transform: translate(-40%, 10%);
+}
+
+.centerTable {
+  text-align: center;
+  margin: auto;
+}
+.volver {
+  /*  position: absolute; */
+  display: inline-block;
+  text-align: left;
+  width: 200px;
+  margin-bottom: 50px;
+  left: 5%;
+  top: 10%;
+  transform: translate(0%, 0%);
+  -webkit-transform: translate(0%, 10%);
+}
+h3 {
+  text-align: left;
+}
